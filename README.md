@@ -7,5 +7,5 @@ Nesse primeiro momento estou implementando um script que faz leitura no banco de
 e converte a leitura em json.
 
 Próximos passos:
-  Criar ou implementar um web-server
-  Estrutura a API
+  # Criar ou implementar um web-server
+  # Estrutura a API
