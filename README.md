@@ -6,3 +6,6 @@ faça query de pesquisa em um banco de dados,e retorne um json como resposta par
 Nesse primeiro momento estou implementando um script que faz leitura no banco de dados
 e converte a leitura em json.
 
+Próximos passos:
+  Criar ou implementar um web-server
+  Estrutura a API
